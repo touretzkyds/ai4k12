@@ -1,4 +1,4 @@
-# Click here https://github.com/touretzkyds/ai4k12/wiki for the AI4K12 Wiki
+# Click here http://ai4k12.org for the AI4K12 Wiki
 
 Interim web space for the "AI for K-12" initiative.
 
